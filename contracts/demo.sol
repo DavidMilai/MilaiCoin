@@ -4,7 +4,7 @@ pragma solidity >=0.4.25 <0.7.0;
 contract Demo {
     uint256 age;
 
-    constractor(uint256 _age){
+    constructor(uint256 _age){
         age = _age;
     }
 
