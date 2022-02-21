@@ -176,7 +176,7 @@
                         "name": "msg",
                         "nodeType": "Identifier",
                         "overloadedDeclarations": [],
-                        "referencedDeclaration": 164,
+                        "referencedDeclaration": 187,
                         "src": "187:3:2",
                         "typeDescriptions": {
                           "typeIdentifier": "t_magic_message",
@@ -280,7 +280,7 @@
                         "name": "msg",
                         "nodeType": "Identifier",
                         "overloadedDeclarations": [],
-                        "referencedDeclaration": 164,
+                        "referencedDeclaration": 187,
                         "src": "253:3:2",
                         "typeDescriptions": {
                           "typeIdentifier": "t_magic_message",
@@ -626,7 +626,7 @@
                                   "overloadedDeclarations": [
                                     null
                                   ],
-                                  "referencedDeclaration": 164,
+                                  "referencedDeclaration": 187,
                                   "type": "msg",
                                   "value": "msg"
                                 },
@@ -763,7 +763,7 @@
                                   "overloadedDeclarations": [
                                     null
                                   ],
-                                  "referencedDeclaration": 164,
+                                  "referencedDeclaration": 187,
                                   "type": "msg",
                                   "value": "msg"
                                 },
@@ -962,9 +962,8 @@
       "transactionHash": "0x1ec67f1446220794b9db0e281e8b866714509ae68c633922fd456d239bf2dab1"
     }
   },
-  "schemaVersion": "3.4.4",
-  "updatedAt": "2022-02-21T11:56:25.682Z",
-  "networkType": "ethereum",
+  "schemaVersion": "3.4.5",
+  "updatedAt": "2022-02-21T12:59:56.331Z",
   "devdoc": {
     "methods": {}
   },
